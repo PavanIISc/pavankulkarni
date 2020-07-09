@@ -1,15 +1,15 @@
 # site settings
-title: Ashish Rao Mangalore
+title: Pavan Kulkarni
 subtitle: The Life and Musings
-email: ashishrao.mangalore@tum.de
+email: pavankcsc@gmail.com
 description: Should be Interesting to know more about this great man
-baseurl: "/ashish-rao" # the subpath of your site, e.g. /blog
+baseurl: "/pavankulkarni" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: Ashish Rao Mangalore
+author: Pavan Kulkarni
 street_address: 
-city: München
-state: Bavaria,
-country: Germany
+city: Bangalore
+state: Karnataka,
+country: India
 phone: <i> Available on Request </i>
 
 # homepage tiles
